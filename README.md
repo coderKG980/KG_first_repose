@@ -1,1 +1,1 @@
-# KG_first_repose
+This is my first repository
